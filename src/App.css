@@ -1,0 +1,17 @@
+body{
+  width: 100;
+  margin: 0;
+  padding: 0;
+}
+.logo{
+  height: 100px;
+  width: 100px;
+}
+.link{
+  list-style: none;
+}
+img{
+  height: 125px;
+  width: 125px;
+
+}
